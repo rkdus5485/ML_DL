@@ -4,7 +4,7 @@
 ## 강의 주소 : http://hunkim.github.io/ml/
 ### 위 주소에서 유튜브 강의를 시청 할 수 있고 모든 강의 슬라이드를 다운 받을 수 있습니다.
 
-<img src ="https://user-images.githubusercontent.com/45381907/105042683-de447a00-5aa7-11eb-8c69-11c4e442482a.png" width="300">
+<img src ="https://user-images.githubusercontent.com/45381907/105042683-de447a00-5aa7-11eb-8c69-11c4e442482a.png" width="700">
 
 ## 실습에 쓰이는 code github 주소 : https://github.com/hunkim/DeepLearningZeroToAll
 ### 그 외에 실습에 필요한 자료들은 강의 슬라이드 밑에 참고로 표시된 사이트에서 다운 받을 수 있습니다.
